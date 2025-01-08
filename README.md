@@ -4,5 +4,5 @@
 
 akos-utils is my personal [Scoop](https://scoop.sh/) bucket with curated utilities I find useful. Add it to Scoop with:
 ```powershell
-scoop bucket add akos-utils https://github.com/akosmagyari/akos-utils.git
+scoop bucket add akos-utils https://github.com/akosmagyari/akos-utils
 ```
